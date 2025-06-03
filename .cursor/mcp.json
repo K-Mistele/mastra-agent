@@ -1,0 +1,12 @@
+{
+	"mcpServers": {
+		"mcp.shop": {
+			"command": "npx",
+			"args": ["-y", "mcp-remote", "https://mcp.shop/mcp"]
+		},
+		"mastra": {
+			"command": "npx",
+			"args": ["-y", "@mastra/mcp-docs-server@latest"]
+		}
+	}
+}
